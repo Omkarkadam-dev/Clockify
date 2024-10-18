@@ -22,6 +22,12 @@
     transform: translate(-50%, -50%);
 }
 
+.hero h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+
 .container::before {
     content: '';
     width: 180px;
